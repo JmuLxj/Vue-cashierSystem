@@ -218,6 +218,7 @@ export default {
   background-color: #f9fafc;
   padding: 10px;
   text-align: left;
+  cursor: pointer;
 }
 .often_goodsList ul li {
   list-style: none;
@@ -226,6 +227,7 @@ export default {
   padding: 10px;
   margin: 10px;
   background-color: #ffffff;
+  cursor: pointer;
 }
 .often_price {
   color: #63b8ff;

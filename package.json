@@ -13,7 +13,7 @@
     "ajv": "^3.1.0",
     "ajv-keywords": "^3.1.0",
     "axios": "^0.18.0",
-    "element-ui": "^2.3.2",
+    "element-ui": "^2.3.7",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
